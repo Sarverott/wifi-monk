@@ -26,4 +26,4 @@ def wfMonk_profiler():
         #print('   '+wName+" DONE")
     #print("\x1B[91m#### ALL PROFILES CAPTURED! ####\033[0;0m")
     return profiles
-print(json.dumps(wfMonk_profiler()))
+#print(json.dumps(wfMonk_profiler()))
